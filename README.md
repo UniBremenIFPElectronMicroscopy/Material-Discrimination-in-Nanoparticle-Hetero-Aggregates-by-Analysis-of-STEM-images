@@ -36,6 +36,7 @@ Step 7:
 Simulations of the HAADF-STEM intensity for TiO2 and WO3 in various phases and orientations were done with the STEMsim code (Ref. 4). Results are stored in the 'RawData'-folder and named after each material and phase, e.g. 'TiO2_anatase.json'. Each file contains the HAADF-STEM intensity as a function of material, thickness, orientation and scattering-angle. Fields in the .json files are explained in the MATLAB script 'get_orientation_thickness_matrix_paper.m'. This script applies the detector sensitivity as stored in 'RawData/HAADF_Spektra_91mm_R50_v2.txt' to the simulation and calculates the HAADF-STEM intensities as shown in Figure 1 of the manuscript. This calculation is documented within the script.Finally, the script adds experimental values, saved in 'RawData/comparison_simulation_med_values.mat' in Step 6, to the simulation as shown in Figure 6 of the main manuscript.
 
 References:
+
 [1] J. M. LeBeau, S. Stemmer, Ultramicroscopy 2008, 108, 12 1653.
 
 [2] A. Rosenauer, K. Gries, K. Müller, A. Pretorius, M. Schowalter, A. Avramescu, K. Engl, S. Lutgen, Ultramicroscopy 2009, 109, 9 1171.
