@@ -1,6 +1,6 @@
 # Material-Discrimination-in-Nanoparticle-Hetero-Aggregates-by-Analysis-of-STEM-images
 
-This repositor contains experimental and simulated data as well as evaluation manuscripts for results as shown in 'Material Discrimination in Nanoparticle Hetero-Aggregates by Analysis of Scanning Transmission Electron Microscopy Images' submitted to Particle & Particle Systems Characterization
+This repository contains experimental and simulated data as well as evaluation manuscripts for results as shown in 'Material Discrimination in Nanoparticle Hetero-Aggregates by Analysis of Scanning Transmission Electron Microscopy Images' submitted to Particle & Particle Systems Characterization
 
 Evaluations were done with MATLAB R2020a or newer.
 
